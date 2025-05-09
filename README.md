@@ -17,7 +17,7 @@ Gosto de resolver problemas, aprender novas ferramentas e trabalhar em equipe pa
 ### 💼 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
@@ -36,7 +36,7 @@ Gosto de resolver problemas, aprender novas ferramentas e trabalhar em equipe pa
 ### 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/enzo-magalhaes-508543237/)
-- 📧 Email: *seuemail@email.com*
+- 📧 Email: *es.magalhaes24@gmail.com*
 
 ---
 
