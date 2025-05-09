@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Computação  
 🔍 Interessado em QA, Testes de Software e Desenvolvimento Full-Stack  
-🧰 Tecnologias: Python | Git | Java | SQL  
+🧰 Tecnologias: Python | Git | Java | SQL | Eclipse IDE | Dockers | VS Code
 📌 Buscando uma oportunidade de estágio em tecnologia  
 🚀 Sempre aprendendo e compartilhando!
 
