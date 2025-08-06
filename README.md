@@ -18,9 +18,12 @@ Gosto de resolver problemas, aprender novas ferramentas e trabalhar em equipe pa
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Javascript](https://img.shields.io/badge/-Javascript-333?style=flat&logo=javascript)
+![HTML 5](https://img.shields.io/badge/-HTML%205-333?style=flat&logo=html5)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=vs-code)
+
 
 ---
 
