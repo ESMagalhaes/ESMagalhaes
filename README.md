@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Enzo Magalhães</h1>
 
 <p align="center">
-🎓 Estudante de Engenharia de Computação • 🔎 Interesse em QA, Testes de Software e Desenvolvimento Web • 🚀 Em busca de estágio em tecnologia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas • 🔎 Interesse em QA, Testes de Software e Desenvolvimento FullStack • 🚀 Em busca de emprego na área de Desenvolvimento e T.I.
 </p>
 
 ---
@@ -42,5 +42,3 @@ Gosto de resolver problemas, aprender novas ferramentas e trabalhar em equipe pa
 - 📧 Email: *es.magalhaes24@gmail.com*
 
 ---
-
-*Vamos construir juntos? Estou aberto a colaborações e oportunidades de aprendizado!*
